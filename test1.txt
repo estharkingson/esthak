@@ -1,1 +1,6 @@
-create king git 
+<html>
+<head>
+<title>my firts page</title>
+<body>
+<p> my new web page 
+</body>
